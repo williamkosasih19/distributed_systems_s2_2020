@@ -1,0 +1,34 @@
+pv 10
+pv 9
+pv 8
+pv 7
+pv 6
+pv 5
+pv 4
+pv 3
+pv 2
+pv 1
+pv 0
+po ascending
+pop
+cv 10
+pop
+cv 9
+pop
+cv 8
+pop
+cv 7
+pop
+cv 6
+pop
+cv 5
+pop
+cv 4
+pop
+cv 3
+pop
+cv 2
+pop
+cv 1
+pop
+cv 0

@@ -1,0 +1,9 @@
+GeneralSocket port: 49358
+ProposerSocket port: 49359
+acceptorSocket port: 49360
+learnerSocket port: 49361
+My Client Number String: 2
+Number of Clients: 3
+My Client Number 2
+Person elected: M1
+Person elected: M1

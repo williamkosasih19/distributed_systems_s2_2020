@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ./out SorterClientMultithreadedTest  test_cases/test_large_number_ascending test_cases/test_large_number_descending test_cases/test_large_number_max test_cases/test_large_number_min test_cases/test_min test_cases/test_max test_cases/test_ascending test_cases/test_descending test_cases/test_intertwined test_cases/test_delay test_cases/test_delay_long
